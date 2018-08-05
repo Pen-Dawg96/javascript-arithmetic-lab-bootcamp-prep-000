@@ -25,6 +25,6 @@ function makeInt(a){
 function isNaN(sldkjflksjf){
   return(true)
 }
-function preserveDecimal(a){
+function preserveDecimal(n){
   return(2.222)
 }
