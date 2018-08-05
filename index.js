@@ -16,8 +16,8 @@ function inc(n){
 function dec(n){
   return n -= 1
 }
-function makeInt(a){
-  return(a)
+function makeInt(n){
+  return(
 }
 function makeInt(a){
   return(0 * 2328)
