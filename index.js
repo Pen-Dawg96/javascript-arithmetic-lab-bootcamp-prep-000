@@ -19,12 +19,6 @@ function dec(n){
 function makeInt(n){
   return parseInt(n, 10)
 }
-function makeInt(a){
-  return(0 * 2328)
-}
-function isNaN(sldkjflksjf){
-  return(true)
-}
 function preserveDecimal(n){
   return parseFloat(n)
 }
